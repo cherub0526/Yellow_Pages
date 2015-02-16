@@ -1,0 +1,31 @@
+<?php
+return array(
+	'table' => array(
+		'public_utilities' => '公共事業',
+		'food_catering' => '食品餐飲',
+		'clothing_accessories' => '衣著配件',
+		'houses' => '住屋居家',
+		'transport' => '行車運輸',
+		'academices' => '育才學術',
+		'leisure_times' => '樂在休閒',
+		'shoppings' => '百貨購物',
+		'medical_cares' => '醫療保健',
+		'environmental_protections' => '環境保護',
+		'social_services' => '社會服務',
+		'news_and_cultures' => '新聞文化',
+		'financials' => '金融工商',
+		'advertisement_print' => '廣告印刷',
+		'stationery' => '事務文具',
+		'film_and_television' => '聲光影視',
+		'appliances' => '家用電器',
+		'electrical_equipment' => '電工器材',
+		'information_and_communication' => '資訊通訊',
+		'agrucultural' => '農林漁牧',
+		'textile_industries' => '紡織工業',
+		'chemical_industries' => '化學工業',
+		'industrial_machinery' => '工業機械',
+		'metal_industries' => '金屬工業',
+		'packaging_services' => '包裝服務',
+		'funeral_rituals' => '生命禮儀',
+	)
+);
